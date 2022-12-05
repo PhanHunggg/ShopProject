@@ -3,6 +3,10 @@
 @import "variables";
 @import "minxin";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .header {
   position: fixed;
   width: 100%;
